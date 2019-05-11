@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.malp"
+    id        = "com.phonegap.keh"
     version   = "1.0.0">
 
-<name>Agenda de Servicios
+<name>Servicios
     </name>
 
 <description>
@@ -12,7 +12,7 @@ Servicios
 </description>
 
 <author href="" email="">
-miguel angel lopez perez
+Karina Esparza Heredia
 </author>
 
 
